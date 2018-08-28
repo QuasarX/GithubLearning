@@ -1,0 +1,43 @@
+{
+  "_from": "construct-play-games",
+  "_id": "construct-play-games@1.0.13",
+  "_inBundle": false,
+  "_integrity": "sha512-oEkA9TOfPimxusXq1ZnYVtBM6M5tRBh4DvS89XXwlz5afWDU2W1OX7GNiOcq0o7DQpYlGPNdV8CIlb6QwA2duQ==",
+  "_location": "/construct-play-games",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "construct-play-games",
+    "name": "construct-play-games",
+    "escapedName": "construct-play-games",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/construct-play-games/-/construct-play-games-1.0.13.tgz",
+  "_shasum": "867d3a64dfc41c62aca5eb5bb89032b56fda7173",
+  "_spec": "construct-play-games",
+  "_where": "C:\\Users\\X",
+  "author": {
+    "name": "Iain Shorter"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova plugin for google play games in the construct game runtime",
+  "keywords": [
+    "Cordova",
+    "Construct",
+    "Scirra"
+  ],
+  "license": "ISC",
+  "name": "construct-play-games",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.13"
+}

@@ -1,0 +1,44 @@
+{
+  "_from": "construct-mobile-advert",
+  "_id": "construct-mobile-advert@1.2.5",
+  "_inBundle": false,
+  "_integrity": "sha512-uwMBv5NyjdevMXRnGGn4lqghl5n2okrxdSVnuGRQITr1Xwz7loUmBj5P0KXPcsQ7jkXtS2xfkR5i2K2ztz8ESw==",
+  "_location": "/construct-mobile-advert",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "construct-mobile-advert",
+    "name": "construct-mobile-advert",
+    "escapedName": "construct-mobile-advert",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/construct-mobile-advert/-/construct-mobile-advert-1.2.5.tgz",
+  "_shasum": "6d83e41e9ba0a5c464ff4169572d3fb8f35758ac",
+  "_spec": "construct-mobile-advert",
+  "_where": "C:\\Users\\X",
+  "author": {
+    "name": "Iain Shorter"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova plugin for admob ads in the construct game runtime",
+  "keywords": [
+    "Cordova",
+    "Construct",
+    "Scirra"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "construct-mobile-advert",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.5"
+}
